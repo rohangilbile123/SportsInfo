@@ -35,17 +35,7 @@ local.properties
 node_modules/
 npm-debug.log
 yarn-error.log
-.gitignore
-.flowconfig
-.buckconfig
-.eslintrc.js
-.prettierrc.js
-.ruby-version
-.watchmanconfig
-__tests__
-.bundle
-.idea
-.vscode
+
 # BUCK
 buck-out/
 \.buckd/
