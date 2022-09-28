@@ -22,7 +22,7 @@ const HomeHeader = () => {
             paddingLeft: 24,
             paddingBottom:10
           }}>
-            SportsInfo
+            Sportionary
         </Text>
       </View>
       <View style={{marginHorizontal: 14}}>
@@ -32,7 +32,7 @@ const HomeHeader = () => {
         fontWeight: '400',
         color: 'black',
         textAlign: 'center',
-       }}> A place to know about your favorite sports</Text>
+       }}>One stop for all the sports you follow</Text>
       </View>
     </View>
   );
